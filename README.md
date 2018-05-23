@@ -5,7 +5,7 @@
 
 - Give it a try:
 
-  - [!!!!!](https://byrongbp.github.io/canvas-light-thing/)
+  - [!!!!!](https://byrongbp.github.io/js-input-field-thing/)
    
 - TODO
   - [!!!!!](./TODO.md)
